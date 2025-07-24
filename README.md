@@ -1,7 +1,7 @@
 # Email-ID-Validation
 This project is a simple Python-based email validation tool that checks whether a given email ID is valid or not, based on commonly accepted email format rules. It uses basic string operations (for, if, input) without any external libraries or regular expressions — making it beginner-friendly and educational.
 
-#✨ Features
+✨ Features
 Here are the key features of the project:
 
 ✅ Minimum Length Check: Ensures the email is at least 6 characters long.
